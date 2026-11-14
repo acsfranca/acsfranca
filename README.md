@@ -1,7 +1,5 @@
 # 💜 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-<img align="right" width="150" src="https://cdn-icons-png.flaticon.com/512/2785/2785482.png" />
-
 ### 🧬 Sobre mim
 
 Sou estudante de **Biomedicina na Universidade Federal do Rio Grande do Norte (UFRN)**, apaixonada pela ciência, pesquisa e pelas possibilidades de integração entre diferentes áreas do conhecimento.
