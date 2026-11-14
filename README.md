@@ -12,7 +12,6 @@ Sou estudante de **Biomedicina na Universidade Federal do Rio Grande do Norte (U
 ### 🛠️ Ferramentas que utilizo
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Capcut-icon.png/512px-Capcut-icon.png" alt="CapCut" width="55" height="55" style="border-radius: 14px;" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="55" height="55" style="border-radius: 14px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="CapCut" width="50" height="50" />
+  <img height="50" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
